@@ -2,7 +2,7 @@
 
 * [100% real understand] Marshall, Ben R., Nhut Nick Hoang Nguyen, and Nuttawat Visaltanachoti. "Bitcoin liquidity." Nuttawat, Bitcoin Liquidity (May 31, 2019) (2019).
 * [0% real understand] Yue, Wei, Sijia Zhang, and Qiang Zhang. "Asymmetric news effects on cryptocurrency liquidity: an Event study perspective." Finance Research Letters (2020): 101799.
-* [0% real understand] Manahov, Viktor. "Cryptocurrency liquidity during extreme price movements: is there a problem with virtual money?." Quantitative Finance (2020): 1-20.
+* [25% real understand] Manahov, Viktor. "Cryptocurrency liquidity during extreme price movements: is there a problem with virtual money?." Quantitative Finance (2020): 1-20.
 * [0% real understand] Donier, Jonathan, and Jean-Philippe Bouchaud. "Why do markets crash? Bitcoin data offers unprecedented insights." PloS one 10.10 (2015): e0139356.
 * [0% real understand] Scharnowski, Stefan. "Understanding bitcoin liquidity." Finance Research Letters (2020): 101477.
 * [0% real understand] Zhang, Wei, and Yi Li. "Liquidity risk and expected cryptocurrency returns." International Journal of Finance & Economics.
